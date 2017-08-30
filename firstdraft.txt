@@ -1,1 +1,5 @@
 first draft
+The data that pharmacist would in a community pharmacy:
+1. number of prescriptions for each day
+2. name of drugs that are prescribed mostly in the pharmacy
+3. patient's information
